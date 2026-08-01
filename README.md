@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @ArunYadav02<br>👀 I’m interested in Software Development<br>🌱 I’m currently learning Full Stack Development<br>💞️ I’m looking to collaborate on Web Projects and web applications<br>📫 You can reach me on my GitHub or either email me on Yadav029Arun@gmail.com
+👋 Hi, I’m @ArunYadav02<br>👀 I’m interested in Software Development<br>🌱 I’m currently learning <br>💞️ I’m looking to collaborate on Web Projects and web applications<br>📫 You can reach me on my GitHub or either email me on Yadav029Arun@gmail.com
 
 
 ## 🌐 Socials:
